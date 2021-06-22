@@ -1,8 +1,6 @@
-# **Test Script for Sending Email**
+# **My Learning Powershell Journey**
 
-I created this script to test out sending emails in Powershell. This example will send an email in Office365.
-Certain elements are included since it will act as a piece of a larger Powershell script to automate new hires. Eventually
-this will be part of that script to automatically email the new hire's manager needed login information.
-
-I've also included some rudimentary prompts to allow you to input variables which assign values for aspects of the email
-such as who you're sending it to, the manager name, etc.
+I've created this repository to work on Powershell scripts that I put together as I work on learning Powershell. 
+Many of these specific scripts are chosen because I needed to make certain aspects of my job easier and quicker
+to do, such as automating the onboarding process. These Powershell scripts will gradually be improve and tweaked
+as I clean them up and learn more as I go.
